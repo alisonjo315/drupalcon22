@@ -1,2 +1,4 @@
 # drupalcon22
-Notes and things for/from DrupalCon North America 2022.
+Notes and things for/from DrupalCon Portland 2022.
+
+Including code sharing to go with Higher Ed Summit presentation.
