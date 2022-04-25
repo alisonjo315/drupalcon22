@@ -81,3 +81,10 @@ Reminder: By config, I mean Drupal configuration entities ([Configuration Manage
 * Long ago, we used to use the config_installer module to install Drupal using
 config files in a project codebase.
 * Reminder: The new site won’t have content, because I didn't copy the demo site database, just the code repo.
+
+## Then what?
+
+It depends, of course.  Hopefully, I remember to update `.lando.yml` with the
+new site name and ID right away :)  Then, I do some name-changing in the starter
+child theme we have on our demo site, so it can be the beginning of the new
+site's child theme.
