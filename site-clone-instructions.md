@@ -52,7 +52,7 @@ $ terminus site:create --org ORG_ID newsite "NEW SITE HUMAN NAME" empty
 ```
 FYI:
 * The new site won't "be" anything, it'll be a plain/nothing site.
-* `org` is an identifier on Pantheon<br>
+* `org` is an identifier in Pantheon
 * `empty` means the new site will have an "empty upstream" in Pantheon.
 
 ### Step 3: Push local repo to new Pantheon site
